@@ -1,0 +1,52 @@
+[
+  {
+    "player_id": 1,
+    "name": "Shiva",
+    "role": "Raider",
+    "age": 28,
+    "country": "India",
+    "matches": 120,
+    "raid_points": 1450,
+    "tackle_points": 110
+  },
+  {
+    "player_id": 2,
+    "name": "Nikhil",
+    "role": "Defender",
+    "age": 33,
+    "country": "Iran",
+    "matches": 135,
+    "raid_points": 75,
+    "tackle_points": 450
+  },
+  {
+    "player_id": 3,
+    "name": "Rohith",
+    "role": "Raider",
+    "age": 25,
+    "country": "India",
+    "matches": 95,
+    "raid_points": 900,
+    "tackle_points": 65
+  },
+  {
+    "player_id": 4,
+    "name": "Vinay",
+    "role": "All-rounder",
+    "age": 31,
+    "country": "India",
+    "matches": 125,
+    "raid_points": 460,
+    "tackle_points": 340
+  },
+  {
+    "player_id": 5,
+    "name": "Nithin",
+    "role": "Defender",
+    "age": 26,
+    "country": "India",
+    "matches": 98,
+    "raid_points": 55,
+    "tackle_points": 320
+  }
+]
