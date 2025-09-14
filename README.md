@@ -1,1 +1,0 @@
-# kabaddi-team-mongodb-sql

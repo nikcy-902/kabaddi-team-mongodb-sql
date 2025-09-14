@@ -1,0 +1,5 @@
+SELECT name FROM players WHERE role = 'Raider' AND country = 'India';
+SELECT name, tackle_points FROM players WHERE tackle_points = (SELECT MAX(tackle_points) FROM players);
+SELECT name FROM players WHERE role = 'Defender' AND age > 30;
+SELECT SUM(raid_points) FROM players WHERE country = 'India';
+SELECT name FROM players WHERE role = 'All-rounder' AND tackle_points > 300;
